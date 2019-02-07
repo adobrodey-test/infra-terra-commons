@@ -1,0 +1,6 @@
+#  Terraform and Terragrunt build files
+**/.terraform/*
+**/*.tfstate
+**/.terragrunt-cache
+plan.out
+*.iml
